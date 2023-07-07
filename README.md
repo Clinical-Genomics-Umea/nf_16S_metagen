@@ -4,7 +4,9 @@ This repository contains code for how LULU was implemented in ............
 
 ## Install
 Create conda environment:
-`mamba env create -n nf_16S_metagen -f environment.yml`
+```
+mamba env create -n nf_16S_metagen -f environment.yml
+```
 
 Activate environment:
 `mamba activate nf_16S_metagen`
